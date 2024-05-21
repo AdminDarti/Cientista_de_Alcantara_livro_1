@@ -1,4 +1,7 @@
-# Ciêntista de Alcântara: uma jornada sobre computação e satelites.
+# Livro Ciêntista de Alcântara: uma jornada sobre computação e satelites.
+
+---
+
 ## Obejtivos:
 Este site tem o intuito de armazer as informções do livro e mante-las de facil acesso a todos, aqui vocês poderão encontrar
 
