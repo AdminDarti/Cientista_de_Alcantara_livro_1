@@ -5,7 +5,7 @@ print("======================")
 print("|Bem Vindo estudante!|")
 print("======================")
 
-print("Aqui estão varios tipos estrutura de repetição em python\n")
+print("Aqui estão alguns tipos estrutura de repetição em python\n")
 
 # Exemplo de for
 # Imprimindo os número de 0 a 4
