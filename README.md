@@ -32,7 +32,7 @@ Este site tem o intuito de armazer as informções do livro e mante-las de facil
 
 **(Página 22)** Código de Operações Relacionais ([link](https://github.com/AdminDarti/Cientista_de_Alcantara_livro_1/blob/main/Códigos/op_relacionais(pg26).py))
 
-**(Página 25)** Código de Operações de Repetição ([link](https://github.com/AdminDarti/Cientista_de_Alcantara_livro_1/blob/main/Códigos/Ex_Repetetição(pg%2025).py))
+**(Página 25)** Código de Operações de Repetição ([link]())
 
 **(Página 28)** Código que verifica se um numero é par ou impar ([link](https://github.com/AdminDarti/Cientista_de_Alcantara_livro_1/blob/main/Códigos/estrutura_repetição(pg%2030).py))
 
