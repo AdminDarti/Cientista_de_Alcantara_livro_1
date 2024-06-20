@@ -36,5 +36,19 @@ Este site tem o intuito de armazer as informções do livro e mante-las de facil
 
 **(Página 28)** Código que verifica se um numero é par ou impar ([link](https://github.com/AdminDarti/Cientista_de_Alcantara_livro_1/blob/main/Códigos/Verifica_par(Pg%2028).py))
 
+### CAPITULO 4: OBEDEÇA-ME, CANSAT!
+---
+### Tutorial de instalação do microPYTHON e BIPES
+
+**1.** Verifique a conexão com a internet:
+
+
+
+
+
+
+
+
+### CAPITULO 5: A JORNADA COMEÇA
 ---
 **Encontrou algum erro?**  Entre em contato com: antonio.nmm@discente.ufma.br
